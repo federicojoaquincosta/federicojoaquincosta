@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @Tolkiencito
-- 👀 I’m interested in learning computer science! 
+- 👋 Hi, I’m fede 
 - 🌱 I’m currently learning computer science! 
 
 <!---
